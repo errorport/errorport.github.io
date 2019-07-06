@@ -10,5 +10,25 @@
 	<atom:link href="https://errorport.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>about</title>
+      <link>https://errorport.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errorport.github.io/about/</guid>
+      <description>This page is for listing all of my publications, projects, actualities and so on. I am G. bencsik, working as a Computer vision software engineer for an international automotive company. I graduaded both of my BSc. and MSc. in Pécs, University of Pécs, Hungary. My topic was sound DSP / adaptive filtering. It can be found under the projects/SyncEQ title.
+I will finish this site as soon as it possible with some basic stuff.</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://errorport.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://errorport.github.io/projects/</guid>
+      <description>This list is incomplete yet.
+   Name Type Starting date Status     Kolmogorov Toolbox Musical - Visual 2017. 10. Active   Kahath&amp;rsquo; Musical 2015. 10. Active   Zuhatag Musical 2016. &amp;ndash;. Inactive   SyncEQ Developement / Research 2014. 09. Closed: 2018   ZUD Musical 2012. 06. Closed: 2015   INTU Musical 2009. 08. Closed: 2017    </description>
+    </item>
+    
   </channel>
 </rss>

@@ -13,8 +13,16 @@
   </url>
   
   <url>
+    <loc>https://errorport.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://errorport.github.io/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://errorport.github.io/projects/</loc>
   </url>
   
 </urlset>
